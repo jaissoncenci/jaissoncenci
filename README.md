@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there My name is Jaisson 👋
+- 🔭 I’m currently working as a Ph.D. researcher at UFPel - Brazil, and Radboudumc - The Netherlands
+- 🌱 I’m currently learning Python and Machine Learning
+- 🤔 I’m looking for help with data science projects and how to start in this career
+- 📫 How to reach me: jaissoncenci@gmail.com
 
 <!--
 **jaissoncenci/jaissoncenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
